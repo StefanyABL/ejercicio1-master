@@ -1,1 +1,2 @@
-# ejercicio1-master
+# ejercicio1
+ejercicio programación
